@@ -1,0 +1,1 @@
+# write-a-c-program-for-check-triangle-is-valid-or-not.
